@@ -1,5 +1,5 @@
 use log::{Record, Level, Metadata, LevelFilter};
-use colored::*; // Make sure this is added to Cargo.toml
+use colored::*; 
 
 pub struct SimpleLogger;
 
